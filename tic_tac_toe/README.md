@@ -1,4 +1,4 @@
-# tiktak_game
+# tictakto game
 
 A new Flutter project.
 
